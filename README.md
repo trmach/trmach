@@ -1,4 +1,5 @@
 ### Hi there 👋
+I'm going to tell you a secret, keep it between us, alright? Them, they do it on purpose, to tease newcomers. First they instruct you to create a separate boot partition, then they tell you not to automount it in fstab, and then they laugh on us when we forget to mount boot before installing a new kernel! Yup, with boot not mounted you can install kernels as many as you want, when you reboot it will still be the old kernel you installed with Gentoo.
 
 <!--
 **trmach/trmach** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
